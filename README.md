@@ -5,6 +5,19 @@
 ## Description
 This is a python application that allows users to create an account,publish their pitches,read pitches created by other users and also comment on those pitches.
 
+## BDD
+This application allow a user to register
+* Input: Submit registration form
+* Output: User receives a welcome email
+
+The application lets the user login
+* Input: Submit login form
+* Output: Displays user name on right of navbar
+
+The app allows a user to publish a pitch
+* Input: Click on 'create Pitch' button
+* Output: Redirects user to a form that helps him/her create a pitch
+
 ## Setup/Installation Requirements
 - Git
 - Web-browser or your choice
