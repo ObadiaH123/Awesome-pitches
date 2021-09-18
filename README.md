@@ -26,7 +26,12 @@ The app allows a user to publish a pitch
 - Pip
 - Python 3.8
 - SQL Postgres
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+
+~ Clone this project file using the repository link below
+~ https://github.com/ObadiaH123/Awesome-pitches.git
+~ open the file on your preferred text/code editor
+~ code away
+
 
 ## Known Bugs
 The UI is not upto the required, for any error please reach out to me.
