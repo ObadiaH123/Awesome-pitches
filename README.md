@@ -19,12 +19,12 @@ This is a python application that allows users to create an account,publish thei
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 
 ## Technologies Used
-*Python
-*Flask
-*Bootstrap
-*HTML
-*Powershell
-*Javascript
+* Python
+* Flask
+* Bootstrap
+* HTML
+* Powershell
+* Javascript
 
 ## Support and contact details
 For any support | corrections | consultantions and other related inquiries kindly Send me a Mail through kiprotichbernard780@gmail.com
