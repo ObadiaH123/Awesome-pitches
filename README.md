@@ -27,10 +27,10 @@ The app allows a user to publish a pitch
 - Python 3.8
 - SQL Postgres
 
-~ Clone this project file using the repository link below
-~ https://github.com/ObadiaH123/Awesome-pitches.git
-~ open the file on your preferred text/code editor
-~ code away
+*Clone this project file using the repository link below
+*https://github.com/ObadiaH123/Awesome-pitches.git
+*open the file on your preferred text/code editor
+*code away
 
 
 ## Known Bugs
