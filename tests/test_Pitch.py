@@ -25,3 +25,4 @@ class PitchModelTest(unittest.TestCase):
         self.new_pitch.save_pitch()
         got_pitch = Pitch.get_pitch(1)
         self.assertTrue(got_pitch is not None)
+
